@@ -1,0 +1,304 @@
+RANDOM DATA
+==============3000==============
+
+Bubble Sort: 370ms
+Shaker Sort: 287ms
+Selection Sort: 35ms
+Insertion Sort: 8ms
+Binary Insertion Sort: 5ms
+Shell Sort: 0ms
+Heap Sort: 5ms
+Merge Sort: 3ms
+Quick Sort: 0ms
+Counting Sort: 1ms
+Radix Sort: 0ms
+Flash Sort: 0ms
+
+==============10000==============
+
+Bubble Sort: 3404ms
+Shaker Sort: 3436ms
+Selection Sort: 322ms
+Insertion Sort: 84ms
+Binary Insertion Sort: 46ms
+Shell Sort: 4ms
+Heap Sort: 17ms
+Merge Sort: 12ms
+Quick Sort: 6ms
+Counting Sort: 1ms
+Radix Sort: 1ms
+Flash Sort: 0ms
+
+==============30000==============
+
+Bubble Sort: 30175ms
+Shaker Sort: 28946ms
+Selection Sort: 2989ms
+Insertion Sort: 752ms
+Binary Insertion Sort: 423ms
+Shell Sort: 11ms
+Heap Sort: 56ms
+Merge Sort: 36ms
+Quick Sort: 6ms
+Counting Sort: 1ms
+Radix Sort: 5ms
+Flash Sort: 2ms
+
+==============100000==============
+
+Bubble Sort: 334109ms
+Shaker Sort: 316954ms
+Selection Sort: 31680ms
+Insertion Sort: 8210ms
+Binary Insertion Sort: 8549ms
+Shell Sort: 37ms
+Heap Sort: 220ms
+Merge Sort: 118ms
+Quick Sort: 22ms
+Counting Sort: 2ms
+Radix Sort: 15ms
+Flash Sort: 6ms
+
+==============300000==============
+
+Bubble Sort: 3.05658e+06ms
+Shaker Sort: 2.92849e+06ms
+Selection Sort: 288024ms
+Insertion Sort: 74336ms
+Binary Insertion Sort: 97915ms
+Shell Sort: 122ms
+Heap Sort: 711ms
+Merge Sort: 365ms
+Quick Sort: 63ms
+Counting Sort: 8ms
+Radix Sort: 47ms
+Flash Sort: 22ms
+
+SORTED DATA
+==============3000==============
+
+Bubble Sort: 1ms
+Shaker Sort: 0ms
+Selection Sort: 14ms
+Insertion Sort: 0ms
+Binary Insertion Sort: 0ms
+Shell Sort: 0ms
+Heap Sort: 4ms
+Merge Sort: 29ms
+Quick Sort: 0ms
+Counting Sort: 0ms
+Radix Sort: 1ms
+Flash Sort: 0ms
+
+==============10000==============
+
+Bubble Sort: 0ms
+Shaker Sort: 0ms
+Selection Sort: 159ms
+Insertion Sort: 0ms
+Binary Insertion Sort: 0ms
+Shell Sort: 1ms
+Heap Sort: 17ms
+Merge Sort: 11ms
+Quick Sort: 1ms
+Counting Sort: 0ms
+Radix Sort: 1ms
+Flash Sort: 1ms
+
+==============30000==============
+
+Bubble Sort: 0ms
+Shaker Sort: 0ms
+Selection Sort: 1436ms
+Insertion Sort: 0ms
+Binary Insertion Sort: 1ms
+Shell Sort: 2ms
+Heap Sort: 57ms
+Merge Sort: 32ms
+Quick Sort: 4ms
+Counting Sort: 1ms
+Radix Sort: 5ms
+Flash Sort: 1ms
+
+==============100000==============
+
+Bubble Sort: 0ms
+Shaker Sort: 0ms
+Selection Sort: 15839ms
+Insertion Sort: 1ms
+Binary Insertion Sort: 3ms
+Shell Sort: 9ms
+Heap Sort: 212ms
+Merge Sort: 107ms
+Quick Sort: 13ms
+Counting Sort: 2ms
+Radix Sort: 16ms
+Flash Sort: 5ms
+
+==============300000==============
+
+Bubble Sort: 1ms
+Shaker Sort: 1ms
+Selection Sort: 142684ms
+Insertion Sort: 1ms
+Binary Insertion Sort: 10ms
+Shell Sort: 26ms
+Heap Sort: 704ms
+Merge Sort: 330ms
+Quick Sort: 33ms
+Counting Sort: 7ms
+Radix Sort: 55ms
+Flash Sort: 16ms
+
+REVERSE DATA
+==============3000==============
+
+Bubble Sort: 543ms
+Shaker Sort: 548ms
+Selection Sort: 15ms
+Insertion Sort: 15ms
+Binary Insertion Sort: 6ms
+Shell Sort: 0ms
+Heap Sort: 5ms
+Merge Sort: 3ms
+Quick Sort: 0ms
+Counting Sort: 0ms
+Radix Sort: 0ms
+Flash Sort: 0ms
+
+==============10000==============
+
+Bubble Sort: 6072ms
+Shaker Sort: 6062ms
+Selection Sort: 172ms
+Insertion Sort: 164ms
+Binary Insertion Sort: 61ms
+Shell Sort: 0ms
+Heap Sort: 16ms
+Merge Sort: 10ms
+Quick Sort: 1ms
+Counting Sort: 0ms
+Radix Sort: 1ms
+Flash Sort: 0ms
+
+==============30000==============
+
+Bubble Sort: 56516ms
+Shaker Sort: 58897ms
+Selection Sort: 1495ms
+Insertion Sort: 1480ms
+Binary Insertion Sort: 542ms
+Shell Sort: 3ms
+Heap Sort: 53ms
+Merge Sort: 32ms
+Quick Sort: 3ms
+Counting Sort: 1ms
+Radix Sort: 5ms
+Flash Sort: 2ms
+
+==============100000==============
+
+Bubble Sort: 613504ms
+Shaker Sort: 630679ms
+Selection Sort: 17169ms
+Insertion Sort: 16725ms
+Binary Insertion Sort: 6127ms
+Shell Sort: 11ms
+Heap Sort: 230ms
+Merge Sort: 132ms
+Quick Sort: 11ms
+Counting Sort: 3ms
+Radix Sort: 17ms
+Flash Sort: 4ms
+
+==============300000==============
+
+Bubble Sort: 5.58738e+06ms
+Shaker Sort: 5.43934e+06ms
+Selection Sort: 148868ms
+Insertion Sort: 148053ms
+Binary Insertion Sort: 54483ms
+Shell Sort: 41ms
+Heap Sort: 652ms
+Merge Sort: 326ms
+Quick Sort: 39ms
+Counting Sort: 8ms
+Radix Sort: 57ms
+Flash Sort: 14ms
+
+NEARLY SORTED DATA
+==============3000==============
+
+Bubble Sort: 17ms
+Shaker Sort: 2ms
+Selection Sort: 15ms
+Insertion Sort: 0ms
+Binary Insertion Sort: 0ms
+Shell Sort: 1ms
+Heap Sort: 4ms
+Merge Sort: 3ms
+Quick Sort: 0ms
+Counting Sort: 0ms
+Radix Sort: 1ms
+Flash Sort: 0ms
+
+==============10000==============
+
+Bubble Sort: 173ms
+Shaker Sort: 9ms
+Selection Sort: 158ms
+Insertion Sort: 0ms
+Binary Insertion Sort: 1ms
+Shell Sort: 1ms
+Heap Sort: 17ms
+Merge Sort: 10ms
+Quick Sort: 1ms
+Counting Sort: 0ms
+Radix Sort: 1ms
+Flash Sort: 1ms
+
+==============30000==============
+
+Bubble Sort: 1527ms
+Shaker Sort: 18ms
+Selection Sort: 1426ms
+Insertion Sort: 1ms
+Binary Insertion Sort: 1ms
+Shell Sort: 3ms
+Heap Sort: 57ms
+Merge Sort: 31ms
+Quick Sort: 3ms
+Counting Sort: 1ms
+Radix Sort: 5ms
+Flash Sort: 2ms
+
+==============100000==============
+
+Bubble Sort: 7849ms
+Shaker Sort: 30ms
+Selection Sort: 15767ms
+Insertion Sort: 1ms
+Binary Insertion Sort: 4ms
+Shell Sort: 10ms
+Heap Sort: 213ms
+Merge Sort: 106ms
+Quick Sort: 12ms
+Counting Sort: 2ms
+Radix Sort: 15ms
+Flash Sort: 6ms
+
+==============300000==============
+
+Bubble Sort: 29960ms
+Shaker Sort: 24ms
+Selection Sort: 141974ms
+Insertion Sort: 2ms
+Binary Insertion Sort: 10ms
+Shell Sort: 29ms
+Heap Sort: 696ms
+Merge Sort: 325ms
+Quick Sort: 35ms
+Counting Sort: 8ms
+Radix Sort: 54ms
+Flash Sort: 15ms
+
